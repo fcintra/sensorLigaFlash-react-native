@@ -10,3 +10,9 @@ libs:
 - react-native-shake
 
 - react-native-torch
+
+- StyleSheet
+- Hook useState
+- Hook useEffect
+- addEventListener to RNShake
+- Lifecicly ReactJS
