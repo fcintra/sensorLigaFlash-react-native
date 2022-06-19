@@ -1,1 +1,0 @@
-# sensorLigaFlash-react-native
